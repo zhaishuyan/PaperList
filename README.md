@@ -15,7 +15,7 @@
 
 - 2D landmark based approaches
   
-  - [x] [Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss.](https://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Hierarchical_Cross-Modal_Talking_Face_Generation_With_Dynamic_Pixel-Wise_Loss_CVPR_2019_paper.html) [PDF](paper/Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss.pdf) CVPR, 2019.
+  - [x] [Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss.](https://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Hierarchical_Cross-Modal_Talking_Face_Generation_With_Dynamic_Pixel-Wise_Loss_CVPR_2019_paper.html) [[PDF]](./paper/123.pdf) CVPR, 2019.
   - [x] [MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation.](https://wywu.github.io/projects/MEAD/MEAD.html) [[PDF]](./paper/MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation.pdf) ECCV, 2020.
   - [x] [Talking Face Generation with Expression-Tailored Generative Adversarial Network.](https://dl.acm.org/doi/abs/10.1145/3394171.3413844) [[PDF]](./paper/Talking Face Generation with Expression-Tailored Generative Adversarial Network) ACM MM, 2020. (emotion, identity, speech, 多模态合成)
   - [ ] [Fast face-swap using convolutional neural networks.]() ICCV, 2017.
