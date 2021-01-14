@@ -1,7 +1,7 @@
 #  PaperList
  Organize a list of papers 🎈
 
-[中国计算机学会推荐国际学术会议和期刊目录-2019](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=144845) [[PDf]](./paper/中国计算机学会推荐国际学术会议和期刊目录-2019.pdf)
+[中国计算机学会推荐国际学术会议和期刊目录-2019](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=144845) [[PDF]](./paper/中国计算机学会推荐国际学术会议和期刊目录-2019.pdf)
 
 
 
@@ -15,9 +15,9 @@
 
 - 2D landmark based approaches
   
-  - [x] [Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss.]() [[PDF]](./paper/Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss.pdf) CVPR, 2019.
-  - [x] [MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation.]([PDF]) [[PDF]](./paper/MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation.pdf) ECCV, 2020.
-  - [x] [Talking Face Generation with Expression-Tailored Generative Adversarial Network.]() [[PDF]](./paper/Talking Face Generation with Expression-Tailored Generative Adversarial Network) ACM MM, 2020. (emotion, identity, speech, 多模态合成)
+  - [x] [Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss.](https://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Hierarchical_Cross-Modal_Talking_Face_Generation_With_Dynamic_Pixel-Wise_Loss_CVPR_2019_paper.html) [[PDF]](./paper/Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss.pdf) CVPR, 2019.
+  - [x] [MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation.](https://wywu.github.io/projects/MEAD/MEAD.html) [[PDF]](./paper/MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation.pdf) ECCV, 2020.
+  - [x] [Talking Face Generation with Expression-Tailored Generative Adversarial Network.](https://dl.acm.org/doi/abs/10.1145/3394171.3413844) [[PDF]](./paper/Talking Face Generation with Expression-Tailored Generative Adversarial Network) ACM MM, 2020. (emotion, identity, speech, 多模态合成)
   - [ ] [Fast face-swap using convolutional neural networks.]() ICCV, 2017.
   - [ ] [X2face: A network for controlling face generation using images, audio, and pose codes.]() ECCV, 2018.
   - [ ] [FSGAN: Subject agnostic face swapping and reenactment.]() CVPR, 2019.
@@ -25,7 +25,7 @@
 - Vid2vid approaches
   - [ ] [Few-shot video-to-video synthesis.]() NeurIPS, 2019.
   - [ ] [Video-to-video synthesis.]() NeurIPS, 2018.
-  - [x] [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild.](https://dl.acm.org/doi/10.1145/3394171.3413532) [[PDF]](./paper/[A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild.pdf) ACM Multimedia 2020. 
+  - [x] [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild.](https://dl.acm.org/doi/10.1145/3394171.3413532) [[PDF]](./paper/A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild.pdf) ACM Multimedia 2020. 
   - [ ] [Towards Automatic Face-to-Face Translation.](https://dl.acm.org/doi/10.1145/3343031.3351066) [[PDF]](./paper/Towards Automatic Face-to-Face Translation.pdf) ACM Multimedia 2020. (LipGAN, face2face translation)
   
 - Disentanglement based approaches
@@ -100,7 +100,7 @@
 
 - [ ] [HeadGAN: Video-and-Audio-Driven Talking Head Synthesis](https://arxiv.org/abs/2012.08261)
 
-- [ ] [Towards Real-World Blind Face Restoration with Generative Facial Prior](https://arxiv.org/pdf/2101.04061.pdf) [[PDF]](./paper/Towards Real-World Blind Face Restoration with Generative Facial Prior.pdf)
+- [ ] [Towards Real-World Blind Face Restoration with Generative Facial Prior.](https://arxiv.org/pdf/2101.04061.pdf) [[PDF]](./paper/Towards Real-World Blind Face Restoration with Generative Facial Prior.pdf)
 
   (Blind face restoration, 用到pretrained GAN as prior)
 
