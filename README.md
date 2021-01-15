@@ -15,9 +15,9 @@
 
 - 2D landmark based approaches
   
-  - [x] [Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss.](https://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Hierarchical_Cross-Modal_Talking_Face_Generation_With_Dynamic_Pixel-Wise_Loss_CVPR_2019_paper.html) [[PDF]](./paper/Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss.pdf) CVPR, 2019.
-  - [x] [MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation.](https://wywu.github.io/projects/MEAD/MEAD.html) [[PDF]](./paper/MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation.pdf) ECCV, 2020.
-  - [x] [Talking Face Generation with Expression-Tailored Generative Adversarial Network.](https://dl.acm.org/doi/abs/10.1145/3394171.3413844) [[PDF]](./paper/Talking Face Generation with Expression-Tailored Generative Adversarial Network) ACM MM, 2020. (emotion, identity, speech, 多模态合成)
+  - [x] [Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss.](https://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Hierarchical_Cross-Modal_Talking_Face_Generation_With_Dynamic_Pixel-Wise_Loss_CVPR_2019_paper.html) [[PDF]](./paper/Hierarchical_Cross_Modal_Talking_Face_Generation_with_Dynamic_Pixel_Wise_Loss.pdf) CVPR, 2019.
+  - [x] [MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation.](https://wywu.github.io/projects/MEAD/MEAD.html) [[PDF]](./paper/MEAD.pdf) ECCV, 2020.
+  - [x] [Talking Face Generation with Expression-Tailored Generative Adversarial Network.](https://dl.acm.org/doi/abs/10.1145/3394171.3413844) [[PDF]](./paper/Talking_Face_Generation_with_Expression_Tailored_Generative_Adversarial_Network.pdf) ACM MM, 2020. (emotion, identity, speech, 多模态合成)
   - [ ] [Fast face-swap using convolutional neural networks.]() ICCV, 2017.
   - [ ] [X2face: A network for controlling face generation using images, audio, and pose codes.]() ECCV, 2018.
   - [ ] [FSGAN: Subject agnostic face swapping and reenactment.]() CVPR, 2019.
@@ -25,8 +25,8 @@
 - Vid2vid approaches
   - [ ] [Few-shot video-to-video synthesis.]() NeurIPS, 2019.
   - [ ] [Video-to-video synthesis.]() NeurIPS, 2018.
-  - [x] [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild.](https://dl.acm.org/doi/10.1145/3394171.3413532) [[PDF]](./paper/A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild.pdf) ACM Multimedia 2020. 
-  - [ ] [Towards Automatic Face-to-Face Translation.](https://dl.acm.org/doi/10.1145/3343031.3351066) [[PDF]](./paper/Towards Automatic Face-to-Face Translation.pdf) ACM Multimedia 2020. (LipGAN, face2face translation)
+  - [x] [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild.](https://dl.acm.org/doi/10.1145/3394171.3413532) [[PDF]](./paper/A_Lip_Sync_Expert_Is_All_You_Need_for_Speech_to_Lip_Generation_In_The_Wild.pdf) ACM Multimedia 2020. 
+  - [ ] [Towards Automatic Face-to-Face Translation.](https://dl.acm.org/doi/10.1145/3343031.3351066) [[PDF]](./paper/Towards_Automatic_Face_to_Face_Translation.pdf) ACM Multimedia 2020. (LipGAN, face2face translation)
   
 - Disentanglement based approaches
 
@@ -79,9 +79,9 @@
 - StyleGAN and its derivative
 
   - [x] (StyleGAN) [A Style-Based Generator Architecture for Generative Adversarial Networks.](https://arxiv.org/pdf/1812.04948.pdf) [[Which face is real?]](http://www.whichfaceisreal.com/learn.html)[[PDF]](./paper/A Style-Based Generator Architecture for Generative Adversarial Networks.pdf)[[GitHub]](https://github.com/NVlabs/stylegan)[[中文Blog]](https://zhuanlan.zhihu.com/p/63230738)[[YouTube]](https://www.youtube.com/watch?v=dCKbRCUyop8) [[Bilibili]](https://www.bilibili.com/video/BV1ME411d7Y7?from=search&seid=346330266334742148) CVPR, 2019. Nvidia.
-  - [x] (StyleGAN2) [Analyzing and Improving the Image Quality of StyleGAN.](https://ieeexplore.ieee.org/document/9156570) [[PDF]](./paper/Analyzing and Improving the Image Quality of StyleGAN.pdf) [[GitHub]](https://github.com/NVlabs/stylegan2)[[翻译]](http://www.gwylab.com/pdf/stylegan2_chs.pdf) CVPR, 2020. Nvidia.
-  - [x] [GAN-Control: Explicitly Controllable GANs.](https://arxiv.org/abs/2101.02477) [[PDF]](./paper/GAN-Control Explicitly Controllable GANs.pdf) arXiv, 2021. Amazon.
-  - [ ] (InterFaceGAN) [Interpreting the Latent Space of GANs for Semantic Face Editing.](https://arxiv.org/abs/1907.10786) [[PDF]](./paper/Interpreting the Latent Space of GANs for Semantic Face Editing.pdf) [[Github]](https://github.com/genforce/interfacegan) CVPR, 2020.
+  - [x] (StyleGAN2) [Analyzing and Improving the Image Quality of StyleGAN.](https://ieeexplore.ieee.org/document/9156570) [[PDF]](./paper/StyleGAN2.pdf) [[GitHub]](https://github.com/NVlabs/stylegan2)[[翻译]](http://www.gwylab.com/pdf/stylegan2_chs.pdf) CVPR, 2020. Nvidia.
+  - [x] [GAN-Control: Explicitly Controllable GANs.](https://arxiv.org/abs/2101.02477) [[PDF]](./paper/GAN-Control.pdf) arXiv, 2021. Amazon.
+  - [ ] (InterFaceGAN) [Interpreting the Latent Space of GANs for Semantic Face Editing.](https://arxiv.org/abs/1907.10786) [[PDF]](./paper/InterFaceGAN.pdf) [[Github]](https://github.com/genforce/interfacegan) CVPR, 2020.
 
   
 
@@ -100,7 +100,7 @@
 
 - [ ] [HeadGAN: Video-and-Audio-Driven Talking Head Synthesis](https://arxiv.org/abs/2012.08261)
 
-- [ ] [Towards Real-World Blind Face Restoration with Generative Facial Prior.](https://arxiv.org/pdf/2101.04061.pdf) [[PDF]](./paper/Towards Real-World Blind Face Restoration with Generative Facial Prior.pdf)
+- [ ] [Towards Real-World Blind Face Restoration with Generative Facial Prior.](https://arxiv.org/pdf/2101.04061.pdf) [[PDF]](./paper/Towards_Real_World_Blind_Face_Restoration_with_Generative_Facial_Prior.pdf)
 
   (Blind face restoration, 用到pretrained GAN as prior)
 
@@ -118,7 +118,7 @@
 
 - [ ] [VinVL: Making Visual Representations Matter in Vision-Language Models]()
 
-- [x] [Anomaly Detection in Video Sequence with Appearance-Motion Correspondence.](https://openaccess.thecvf.com/content_ICCV_2019/papers/Nguyen_Anomaly_Detection_in_Video_Sequence_With_Appearance-Motion_Correspondence_ICCV_2019_paper.pdf) [[PDf]](./paper/Anomaly Detection in Video Sequence with Appearance-Motion Correspondence.pdf) [[Github]](https://github.com/nguyetn89/Anomaly_detection_ICCV2019)
+- [x] [Anomaly Detection in Video Sequence with Appearance-Motion Correspondence.](https://openaccess.thecvf.com/content_ICCV_2019/papers/Nguyen_Anomaly_Detection_in_Video_Sequence_With_Appearance-Motion_Correspondence_ICCV_2019_paper.pdf) [[PDf]](./paper/Anomaly_Detection_in_Video_Sequence_with_Appearance_Motion_Correspondence.pdf) [[Github]](https://github.com/nguyetn89/Anomaly_detection_ICCV2019)
 
   (其中用到gradient loss，原因是L2 reconstruction loss会使边缘模糊，而image gradient loss可以锐化细节，gradient loss实现代码在GAN_tf.py的224行。用到了optical flow做motion prediction)
 
@@ -128,6 +128,3 @@
 
 - [ ] [Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names](https://gombru.github.io/2019/04/03/ranking_loss/)
 - [ ] [常用数学符号的LaTeX表示方法](https://www.mohu.org/info/symbols/symbols.htm)
-
-
-
