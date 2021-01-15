@@ -16,17 +16,11 @@
 - 2D landmark based approaches
   
   - [x] [Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss.](https://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Hierarchical_Cross-Modal_Talking_Face_Generation_With_Dynamic_Pixel-Wise_Loss_CVPR_2019_paper.html) [[PDF]](./paper/Hierarchical_Cross_Modal_Talking_Face_Generation_with_Dynamic_Pixel_Wise_Loss.pdf) CVPR, 2019.
-<<<<<<< HEAD
-  - [x] [MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation.](https://wywu.github.io/projects/MEAD/MEAD.html) [[PDF]](./paper/MEAD.pdf) ECCV, 2020.
+- [x] [MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation.](https://wywu.github.io/projects/MEAD/MEAD.html) [[PDF]](./paper/MEAD.pdf) ECCV, 2020.
   - [x] [Talking Face Generation with Expression-Tailored Generative Adversarial Network.](https://dl.acm.org/doi/abs/10.1145/3394171.3413844) [[PDF]](./paper/Talking_Face_Generation_with_Expression_Tailored_Generative_Adversarial_Network.pdf) ACM MM, 2020. (emotion, identity, speech, 多模态合成)
-=======
-  - [x] [MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation.](https://wywu.github.io/projects/MEAD/MEAD.html) [[PDF]](./paper/MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation.pdf) ECCV, 2020.
-  - [x] [Talking Face Generation with Expression-Tailored Generative Adversarial Network.](https://dl.acm.org/doi/abs/10.1145/3394171.3413844) [[PDF]](./paper/Talking Face Generation with Expression-Tailored Generative Adversarial Network) ACM MM, 2020. (emotion, identity, speech, 多模态合成)
->>>>>>> 9a09a14eb38f3333b92eb3ef9a352b9fdbb4b887
-  - [ ] [Fast face-swap using convolutional neural networks.]() ICCV, 2017.
-  - [ ] [X2face: A network for controlling face generation using images, audio, and pose codes.]() ECCV, 2018.
-  - [ ] [FSGAN: Subject agnostic face swapping and reenactment.]() CVPR, 2019.
-  
+  - [ ] [Fast face-swap using convolutional neural networks.](https://arxiv.org/abs/1611.09577) ICCV, 2017.
+- [ ] [X2face: A network for controlling face generation using images, audio, and pose codes.](https://openaccess.thecvf.com/content_ECCV_2018/html/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.html) [[PDF]](./paper/X2Face.pdf) ECCV, 2018.
+  - [ ] [FSGAN: Subject agnostic face swapping and reenactment.](https://openaccess.thecvf.com/content_ICCV_2019/html/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.html) [[PDF]](./paper/FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment.pdf) ICCV, 2019.
 - Vid2vid approaches
   - [ ] [Few-shot video-to-video synthesis.]() NeurIPS, 2019.
   - [ ] [Video-to-video synthesis.]() NeurIPS, 2018.
@@ -43,14 +37,14 @@
 
 #### Lip reading
 
-- [x] (SyncNet) [Out of Time: Automated Lip Sync in the Wild.](https://www.researchgate.net/publication/315311266_Out_of_Time_Automated_Lip_Sync_in_the_Wild) [[PDF]](./paper/Out of Time Automated Lip Sync in the Wild.pdf) ACCV, 2016.
+- [x] (SyncNet) [Out of Time: Automated Lip Sync in the Wild.](https://www.researchgate.net/publication/315311266_Out_of_Time_Automated_Lip_Sync_in_the_Wild) [[PDF]](./paper/SyncNet.pdf) ACCV, 2016.
 
 
 
 #### Landmark processing
 
-- [x] [Low Bandwidth video-chat compression using deep generative models](https://arxiv.org/abs/2012.00328) [[PDF]](./paper/Low Bandwidth Video-Chat Compression using Deep Generative Models.pdf) arxiv 2020
-- [ ] [Lifting 2D styleGan for 3D-aware face generation](https://arxiv.org/abs/2011.13126) [[PDF]](./paper/Lifting 2D StyleGAN for 3D-Aware Face Generation.pdf) arxiv, 2020.
+- [x] [Low Bandwidth video-chat compression using deep generative models.](https://arxiv.org/abs/2012.00328) [[PDF]](./paper/Low_Bandwidth_Video_Chat_Compression_using_Deep_Generative_Models.pdf) arxiv, 2020.
+- [ ] [Lifting 2D styleGan for 3D-aware face generation.](https://arxiv.org/abs/2011.13126) [[PDF]](./paper/Lifting_2D_StyleGAN_for_3D_Aware_Face_Generation.pdf) arxiv, 2020.
 - [ ] Fast bi-layer neural synthesis of oneshot realistic head avatars. ECCV, 2020.
 - [ ] Few-shot adversarial learning of realistic neural talking head models. ICCV, 2019.
 - [ ] Semantic image synthesis with spatially-adaptive normalization. CVPR, 2019.
@@ -83,7 +77,7 @@
 
 - StyleGAN and its derivative
 
-  - [x] (StyleGAN) [A Style-Based Generator Architecture for Generative Adversarial Networks.](https://arxiv.org/pdf/1812.04948.pdf) [[Which face is real?]](http://www.whichfaceisreal.com/learn.html)[[PDF]](./paper/A Style-Based Generator Architecture for Generative Adversarial Networks.pdf)[[GitHub]](https://github.com/NVlabs/stylegan)[[中文Blog]](https://zhuanlan.zhihu.com/p/63230738)[[YouTube]](https://www.youtube.com/watch?v=dCKbRCUyop8) [[Bilibili]](https://www.bilibili.com/video/BV1ME411d7Y7?from=search&seid=346330266334742148) CVPR, 2019. Nvidia.
+  - [x] (StyleGAN) [A Style-Based Generator Architecture for Generative Adversarial Networks.](https://arxiv.org/pdf/1812.04948.pdf) [[Which face is real?]](http://www.whichfaceisreal.com/learn.html)[[PDF]](./paper/StyleGAN.pdf)[[GitHub]](https://github.com/NVlabs/stylegan)[[中文Blog]](https://zhuanlan.zhihu.com/p/63230738)[[YouTube]](https://www.youtube.com/watch?v=dCKbRCUyop8) [[Bilibili]](https://www.bilibili.com/video/BV1ME411d7Y7?from=search&seid=346330266334742148) CVPR, 2019. Nvidia.
   - [x] (StyleGAN2) [Analyzing and Improving the Image Quality of StyleGAN.](https://ieeexplore.ieee.org/document/9156570) [[PDF]](./paper/StyleGAN2.pdf) [[GitHub]](https://github.com/NVlabs/stylegan2)[[翻译]](http://www.gwylab.com/pdf/stylegan2_chs.pdf) CVPR, 2020. Nvidia.
   - [x] [GAN-Control: Explicitly Controllable GANs.](https://arxiv.org/abs/2101.02477) [[PDF]](./paper/GAN-Control.pdf) arXiv, 2021. Amazon.
   - [ ] (InterFaceGAN) [Interpreting the Latent Space of GANs for Semantic Face Editing.](https://arxiv.org/abs/1907.10786) [[PDF]](./paper/InterFaceGAN.pdf) [[Github]](https://github.com/genforce/interfacegan) CVPR, 2020.
