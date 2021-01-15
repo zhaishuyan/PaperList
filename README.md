@@ -9,15 +9,16 @@
 
 - 3D based approaches
 
-  - [ ] [Real-time facial animation with image-based dynamic avatars.]() Transactions on Graphics, 2016
+  - [ ] [Real-time facial animation with image-based dynamic avatars.](https://dl.acm.org/doi/10.1145/2897824.2925873) Transactions on Graphics, 2016
 
-  - [ ] [pagan: real-time avatars using dynamic textures.]() SIGRAPH Asia, 2018. (generates key face expression textures that can be deformed and blended in real-time.)
+  - [ ] [paGAN: real-time avatars using dynamic textures.](https://dl.acm.org/doi/abs/10.1145/3272127.3275075) SIGRAPH Asia, 2018. (generates key face expression textures that can be deformed and blended in real-time.)
 
 - 2D landmark based approaches
   
   - [x] [Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss.](https://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Hierarchical_Cross-Modal_Talking_Face_Generation_With_Dynamic_Pixel-Wise_Loss_CVPR_2019_paper.html) [[PDF]](./paper/Hierarchical_Cross_Modal_Talking_Face_Generation_with_Dynamic_Pixel_Wise_Loss.pdf) CVPR, 2019.
   - [x] [MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation.](https://wywu.github.io/projects/MEAD/MEAD.html) [[PDF]](./paper/MEAD.pdf) ECCV, 2020.
   - [x] [Talking Face Generation with Expression-Tailored Generative Adversarial Network.](https://dl.acm.org/doi/abs/10.1145/3394171.3413844) [[PDF]](./paper/Talking_Face_Generation_with_Expression_Tailored_Generative_Adversarial_Network.pdf) ACM MM, 2020. (emotion, identity, speech, 多模态合成)
+  - [ ] [Low Bandwidth video-chat compression using deep generative models.](https://arxiv.org/abs/2012.00328) [[PDF]](./paper/Low_Bandwidth_Video_Chat_Compression_using_Deep_Generative_Models.pdf) arxiv, 2020.
   - [ ] [Fast face-swap using convolutional neural networks.](https://arxiv.org/abs/1611.09577) ICCV, 2017.
   - [ ] [X2face: A network for controlling face generation using images, audio, and pose codes.](https://openaccess.thecvf.com/content_ECCV_2018/html/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.html) [[PDF]](./paper/X2Face.pdf) ECCV, 2018.
   - [ ] [FSGAN: Subject agnostic face swapping and reenactment.](https://openaccess.thecvf.com/content_ICCV_2019/html/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.html) [[PDF]](./paper/FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment.pdf) ICCV, 2019.
@@ -43,7 +44,6 @@
 
 #### Landmark processing
 
-- [x] [Low Bandwidth video-chat compression using deep generative models.](https://arxiv.org/abs/2012.00328) [[PDF]](./paper/Low_Bandwidth_Video_Chat_Compression_using_Deep_Generative_Models.pdf) arxiv, 2020.
 - [ ] [Lifting 2D styleGan for 3D-aware face generation.](https://arxiv.org/abs/2011.13126) [[PDF]](./paper/Lifting_2D_StyleGAN_for_3D_Aware_Face_Generation.pdf) arxiv, 2020.
 - [ ] Fast bi-layer neural synthesis of oneshot realistic head avatars. ECCV, 2020.
 - [ ] Few-shot adversarial learning of realistic neural talking head models. ICCV, 2019.
