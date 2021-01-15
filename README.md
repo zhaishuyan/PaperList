@@ -16,10 +16,10 @@
 - 2D landmark based approaches
   
   - [x] [Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss.](https://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Hierarchical_Cross-Modal_Talking_Face_Generation_With_Dynamic_Pixel-Wise_Loss_CVPR_2019_paper.html) [[PDF]](./paper/Hierarchical_Cross_Modal_Talking_Face_Generation_with_Dynamic_Pixel_Wise_Loss.pdf) CVPR, 2019.
-- [x] [MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation.](https://wywu.github.io/projects/MEAD/MEAD.html) [[PDF]](./paper/MEAD.pdf) ECCV, 2020.
+  - [x] [MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation.](https://wywu.github.io/projects/MEAD/MEAD.html) [[PDF]](./paper/MEAD.pdf) ECCV, 2020.
   - [x] [Talking Face Generation with Expression-Tailored Generative Adversarial Network.](https://dl.acm.org/doi/abs/10.1145/3394171.3413844) [[PDF]](./paper/Talking_Face_Generation_with_Expression_Tailored_Generative_Adversarial_Network.pdf) ACM MM, 2020. (emotion, identity, speech, 多模态合成)
   - [ ] [Fast face-swap using convolutional neural networks.](https://arxiv.org/abs/1611.09577) ICCV, 2017.
-- [ ] [X2face: A network for controlling face generation using images, audio, and pose codes.](https://openaccess.thecvf.com/content_ECCV_2018/html/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.html) [[PDF]](./paper/X2Face.pdf) ECCV, 2018.
+  - [ ] [X2face: A network for controlling face generation using images, audio, and pose codes.](https://openaccess.thecvf.com/content_ECCV_2018/html/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.html) [[PDF]](./paper/X2Face.pdf) ECCV, 2018.
   - [ ] [FSGAN: Subject agnostic face swapping and reenactment.](https://openaccess.thecvf.com/content_ICCV_2019/html/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.html) [[PDF]](./paper/FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment.pdf) ICCV, 2019.
 - Vid2vid approaches
   - [ ] [Few-shot video-to-video synthesis.]() NeurIPS, 2019.
