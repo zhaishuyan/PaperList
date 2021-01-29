@@ -23,7 +23,7 @@
   - [ ] [X2face: A network for controlling face generation using images, audio, and pose codes.](https://openaccess.thecvf.com/content_ECCV_2018/html/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.html) [[PDF]](./paper/X2Face.pdf) ECCV, 2018.
   - [ ] [FSGAN: Subject agnostic face swapping and reenactment.](https://openaccess.thecvf.com/content_ICCV_2019/html/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.html) [[PDF]](./paper/FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment.pdf) ICCV, 2019.
   - [ ] ObamaNet: Photo-realistic lip-sync from text. [[PDF]](./paper/ObamaNet.pdf) arXiv, 2018.
-- [ ] Speech-driven Facial Animation using Cascaded GANs for Learning of Motion and Texture. [[PDF]](./paper/Speech_driven_Facial_Animation_using_Cascaded_GANs_for_Learning_of_Motion_and_Texture.pdf)
+  - [ ] Speech-driven Facial Animation using Cascaded GANs for Learning of Motion and Texture. [[PDF]](./paper/Speech_driven_Facial_Animation_using_Cascaded_GANs_for_Learning_of_Motion_and_Texture.pdf)
   
 - Optical-flow based approaches
   
@@ -34,7 +34,7 @@
   - [ ] [Video-to-video synthesis.]() NeurIPS, 2018.
   - [x] [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild.](https://dl.acm.org/doi/10.1145/3394171.3413532) [[PDF]](./paper/A_Lip_Sync_Expert_Is_All_You_Need_for_Speech_to_Lip_Generation_In_The_Wild.pdf) ACM Multimedia 2020. (基于SyncNet和LipGAN，在原视频中抠出脸做变换再拼回去，用于visual translation)
   - [ ] [Towards Automatic Face-to-Face Translation.](https://dl.acm.org/doi/10.1145/3343031.3351066) [[PDF]](./paper/Towards_Automatic_Face_to_Face_Translation.pdf) ACM Multimedia 2020. (LipGAN, face2face translation)
-- [ ] [Realistic speech-driven facial animation with gans.](https://link.springer.com/content/pdf/10.1007/s11263-019-01251-8.pdf) [[PDF]](paper/Realistic_speech_driven_facial_animation_with_gans.pdf) IJCV 2019.
+  - [ ] [Realistic speech-driven facial animation with gans.](https://link.springer.com/content/pdf/10.1007/s11263-019-01251-8.pdf) [[PDF]](paper/Realistic_speech_driven_facial_animation_with_gans.pdf) IJCV 2019.
   - [ ] CONFIG: Controllable Neural Face Image Generation. [[PDF]](./paper/CONFIG.pdf) (AdaIN)
   
 - Image based approaches
@@ -44,10 +44,9 @@
 - Disentanglement based approaches
 
   - [x] [Talking Face Generation by Adversarially Disentangled Audio-Visual Representation]() [[PDF] ](./paper/Talking Face Generation by Adversarially Disentangled Audio-Visual Representation.pdf)CVPR, 2019. 
-- [x] [Mittal_Animating_Face_using_Disentangled_Audio_Representations.](https://openaccess.thecvf.com/content_WACV_2020/papers/Mittal_Animating_Face_using_Disentangled_Audio_Representations_WACV_2020_paper.pdf)  WACV, 2020. (解耦emotion和content)
+  - [x] [Mittal_Animating_Face_using_Disentangled_Audio_Representations.](https://openaccess.thecvf.com/content_WACV_2020/papers/Mittal_Animating_Face_using_Disentangled_Audio_Representations_WACV_2020_paper.pdf)  WACV, 2020. (解耦emotion和content)
   - [ ] APB2FACEV2: Real-time audio-guided multi-face reenactment. [[PDF]](./paper/APB2FACEV2.pdf)
-- [ ] Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker Conditional-Mixture Approach. [[PDF]](./paper/Style_Transfer_for_Co_Speech_Gesture_Animation_A_Multi_Speaker_Conditional_Mixture_Approach.pdf)
-  - [ ] 
+  - [ ] Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker Conditional-Mixture Approach. [[PDF]](./paper/Style_Transfer_for_Co_Speech_Gesture_Animation_A_Multi_Speaker_Conditional_Mixture_Approach.pdf)
 
 #### Lip reading
 
