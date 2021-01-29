@@ -11,6 +11,8 @@
   - [ ] [Real-time facial animation with image-based dynamic avatars.](https://dl.acm.org/doi/10.1145/2897824.2925873) Transactions on Graphics, 2016
   - [ ] [paGAN: real-time avatars using dynamic textures.](https://dl.acm.org/doi/abs/10.1145/3272127.3275075) SIGRAPH Asia, 2018. (generates key face expression textures that can be deformed and blended in real-time.)
   - [x] Neural Voice Puppetry: Audio-driven Facial Reenactment. [[PDF]](Neural Voice Puppetry Audio-driven Facial Reenactment.pdf) (编辑3DMM的expression base)
+  - [ ] Audio-Driven Facial Animation by Joint End-to-End Learning of Pose and Emotion. [[PDF]](./paper/Audio_Driven_Facial_Animation_by_Joint_End_to_End_Learning_of_Pose_and_Emotion.pdf)
+  - [ ] Talking-head Generation with Rhythmic Head Motion. [[PDF]](./paper/Talking_head_Generation_with_Rhythmic_Head_Motion.pdf)
 
 - 2D landmark based approaches
   - [x] [Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss.](https://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Hierarchical_Cross-Modal_Talking_Face_Generation_With_Dynamic_Pixel-Wise_Loss_CVPR_2019_paper.html) [[PDF]](./paper/Hierarchical_Cross_Modal_Talking_Face_Generation_with_Dynamic_Pixel_Wise_Loss.pdf) CVPR, 2019.
@@ -21,7 +23,8 @@
   - [ ] [X2face: A network for controlling face generation using images, audio, and pose codes.](https://openaccess.thecvf.com/content_ECCV_2018/html/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.html) [[PDF]](./paper/X2Face.pdf) ECCV, 2018.
   - [ ] [FSGAN: Subject agnostic face swapping and reenactment.](https://openaccess.thecvf.com/content_ICCV_2019/html/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.html) [[PDF]](./paper/FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment.pdf) ICCV, 2019.
   - [ ] ObamaNet: Photo-realistic lip-sync from text. [[PDF]](./paper/ObamaNet.pdf) arXiv, 2018.
-
+- [ ] Speech-driven Facial Animation using Cascaded GANs for Learning of Motion and Texture. [[PDF]](./paper/Speech_driven_Facial_Animation_using_Cascaded_GANs_for_Learning_of_Motion_and_Texture.pdf)
+  
 - Optical-flow based approaches
   
   - [ ] One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing. [[PDF]](./paper/One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing.pdf) arXiv, 2020.
@@ -41,10 +44,10 @@
 - Disentanglement based approaches
 
   - [x] [Talking Face Generation by Adversarially Disentangled Audio-Visual Representation]() [[PDF] ](./paper/Talking Face Generation by Adversarially Disentangled Audio-Visual Representation.pdf)CVPR, 2019. 
-
-  - [x] [Mittal_Animating_Face_using_Disentangled_Audio_Representations.](https://openaccess.thecvf.com/content_WACV_2020/papers/Mittal_Animating_Face_using_Disentangled_Audio_Representations_WACV_2020_paper.pdf)  WACV, 2020. (解耦emotion和content)
-
-    
+- [x] [Mittal_Animating_Face_using_Disentangled_Audio_Representations.](https://openaccess.thecvf.com/content_WACV_2020/papers/Mittal_Animating_Face_using_Disentangled_Audio_Representations_WACV_2020_paper.pdf)  WACV, 2020. (解耦emotion和content)
+  - [ ] APB2FACEV2: Real-time audio-guided multi-face reenactment. [[PDF]](./paper/APB2FACEV2.pdf)
+- [ ] Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker Conditional-Mixture Approach. [[PDF]](./paper/Style_Transfer_for_Co_Speech_Gesture_Animation_A_Multi_Speaker_Conditional_Mixture_Approach.pdf)
+  - [ ] 
 
 #### Lip reading
 
@@ -71,12 +74,17 @@
 - Emotion animation
   - [x] [GANimation: Anatomically-aware Facial Animation from a Single Image.]() [[PDF]](./paper/GANimation.pdf) CVPR, 2018. (Generates attention mask and color mask by a conditional GAN)
   - [ ] Learning to Generate Customized Dynamic 3D Facial Expressions. [[PDF]](./paper/Learning_to_Generate_Customized_Dynamic_3D_Facial_Expressions.pdf)
-- [ ] Controllable image-to-video translation: A case study on facial expression generation. AAAI, 2019.
+  - [ ] Controllable image-to-video translation: A case study on facial expression generation. AAAI, 2019.
   
 - Emotion recognition
   - Audio emotion recognition
     - [ ] f-Similarity Preservation Loss for Soft Labels: A Demonstration on Cross-Corpus Speech Emotion Recognition. [[PDF]](./paper/f-Similarity Preservation Loss for Soft Labels A Demonstration on Cross-Corpus Speech Emotion Recognition.pdf)
+    - [ ] Towards Discriminative Representation Learning for Speech Emotion Recognition. [[PDF]](./paper/Towards_Discriminative_Representation_Learning_for_Speech_Emotion_Recognition.pdf)
+    - [ ] Speech Emotion Recognition using Convolutional and Recurrent Neural Networks. [[PDF]](./paper/Speech_Emotion_Recognition_using_Convolutional_and_Recurrent_Neural_Networks.pdf)
+    - [ ] Acoustic Emotion Recognition: A Benchmark Comparison of Performances. [[PDF]](./paper/Acoustic_Emotion_Recognition_A_Benchmark_Comparison_of_Performances.pdf)
   - Visual emotion recognition
+    - [ ] Frame Attention Networks for Facial Expression Recognition in Videos. [[PDF]](./paper/FAN.pdf)
+    - [ ] Facial Emotion Recognition Using Computer Vision. [[PDF]](./paper/Facial_Emotion_Recognition_Using_Computer_Vision.pdf)
   - Cross-modality emotion recognition
     - [ ] [M3ER: Multiplicative Multimodal Emotion Recognition using Facial, Textual, and Speech Cues.](https://ojs.aaai.org//index.php/AAAI/article/view/5492) [[PDF]](./paper/https://ojs.aaai.org//index.php/AAAI/article/view/5492.pdf) AAAI, 2020. (从三个模态提取信息识别一个视频的emotion)
 
@@ -89,25 +97,20 @@
 #### GAN
 
 - [x] (Pix2PixGAN) [Image-to-Image Translation with Conditional Adversarial Networks.](https://ieeexplore.ieee.org/document/8100115/) [[PDF]](./paper/pix2pixgan.pdf) [[Github]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) CVPR, 2017.
-
 - [x] (CycleGAN) [Unpaired Image-to-Image Translationusing Cycle-Consistent Adversarial Networks.](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html) [[PDF]](./paper/cyclegan.pdf) [[Github]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) ICCV, 2017.
-
 - StyleGAN and its derivative
 
   - [x] (StyleGAN) [A Style-Based Generator Architecture for Generative Adversarial Networks.](https://arxiv.org/pdf/1812.04948.pdf) [[Which face is real?]](http://www.whichfaceisreal.com/learn.html)[[PDF]](./paper/StyleGAN.pdf)[[GitHub]](https://github.com/NVlabs/stylegan)[[中文Blog]](https://zhuanlan.zhihu.com/p/63230738)[[YouTube]](https://www.youtube.com/watch?v=dCKbRCUyop8)[[Bilibili]](https://www.bilibili.com/video/BV1ME411d7Y7?from=search&seid=346330266334742148)[[PyTorch]](https://nbviewer.jupyter.org/github/lernapparat/lernapparat/blob/master/style_gan/pytorch_style_gan.ipynb) CVPR, 2019. Nvidia.
   - [x] (StyleGAN2) [Analyzing and Improving the Image Quality of StyleGAN.](https://ieeexplore.ieee.org/document/9156570) [[PDF]](./paper/StyleGAN2.pdf) [[GitHub]](https://github.com/NVlabs/stylegan2)[[翻译]](http://www.gwylab.com/pdf/stylegan2_chs.pdf) CVPR, 2020. Nvidia.
   - [x] [GAN-Control: Explicitly Controllable GANs.](https://arxiv.org/abs/2101.02477) [[PDF]](./paper/GAN-Control.pdf) arXiv, 2021. Amazon.
   - [ ] (InterFaceGAN) [Interpreting the Latent Space of GANs for Semantic Face Editing.](https://arxiv.org/abs/1907.10786) [[PDF]](./paper/InterFaceGAN.pdf) [[Github]](https://github.com/genforce/interfacegan) CVPR, 2020.
-
-  
+- [ ] (BEGAN) BEGAN: Boundary Equilibrium Generative Adversarial Networks. [[PDF]](./paper/BEGAN.pdf)
 
 #### 3D Morphable Model
 
 - [ ] (3DMM)
-- [ ] (3DFFA)
-- [ ] (3DFFA2)
-
-
+- [ ] (3DFFA) Towards Fast, Accurate and Stable 3D Dense Face Alignment. [[PDF]](./paper/3DFFA.pdf)
+- [ ] (3DFFA2) Face Alignment in Full Pose Range: A 3D Total Solution. [[PDF]](./paper/3DFFA_2.pdf)
 
 
 
